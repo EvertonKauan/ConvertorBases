@@ -1,5 +1,6 @@
 print()
 print("\033[;1mBem vindo ao CONVERSOR de bases para decimal!")
+print("\033[;1mFeito por: @EvertonKauancg")
 print("Digite a base que você deseja converter para decimal: \033[m\n")
 print("\033[1;44m[1] BINÁRIO\033[m    \033[1;44m[2] OCTAL\033[m    \033[1;44m[3] HEXADECIMAL\033[m\n")
 
